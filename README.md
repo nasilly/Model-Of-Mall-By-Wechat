@@ -1,2 +1,2 @@
-# Wechat
-some projects or models of wechat
+# A model of mall
+a project of wechat
